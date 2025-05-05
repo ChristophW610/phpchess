@@ -1,0 +1,68 @@
+body
+{
+	background-color: #181818;
+	font-family: Helvetica;
+}
+
+#felds{
+	width: 100px;
+	height: 100px;
+	background-color: #8B5A2B;
+}
+
+#feldw{
+	width: 100px;
+	height: 100px;
+	background-color: #EEC591;
+}
+
+.boxg p{
+	color: white;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 20;
+}
+
+.boxg
+{
+	margin: 0 auto;
+	background-color: #181818;
+	border: 0px;
+	width: 1130px;	
+	padding: 0px;
+	text-align: center;
+	display: flex;
+	justify-content:center;
+}
+
+.boxl
+{
+	margin: 0 auto;
+	background-color: white;
+	border: 0px;
+	width: 800px;
+	height: 800px;
+	padding: 0px;
+	
+}
+
+.boxm
+{
+	margin: 0 auto;
+	background-color: #181818;
+	border: 0px;
+	width: 30px;	
+	padding: 0px;
+	height: 800px;
+}
+
+.boxr
+{
+	margin: 0 auto;
+	background-color: #181818;
+	border: 0px;
+	width: 300px;	
+	padding: 0px;
+	height: 800px;
+}
+
