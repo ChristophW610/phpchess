@@ -1,6 +1,6 @@
 # phpchess
 ## description
-A locally hosted multiplayer chess game built with PHP, MySQL and CSS. Two players on different devisec within the same network can play against each other in real-time via their browser using XAMPP (Apache).
+A locally hosted multiplayer chess game built with PHP, MySQL and CSS. Two players on different devices within the same network can play against each other in real-time via their browser using XAMPP (Apache).
 
 ![grafik](https://github.com/user-attachments/assets/872b8773-590e-4d0d-a957-936b7f4f5136)
 
